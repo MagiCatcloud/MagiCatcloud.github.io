@@ -1,0 +1,33 @@
+.sky{
+    color: #00aabb;
+  }
+a {
+    text-decoration: none;
+    color: #00aabb;
+}
+.pt{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h3{
+    line-height: 30px;
+    padding-left:10px;
+    border-radius: 3px;
+    box-shadow: 10px 10px 5px #888888;
+}
+.blue{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    background-color: #00aabb;
+    color: #ffffff;
+  }
+.container{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,"Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",SimSun, sans-serif;
+    width:800px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    margin-top: 0;
+    background-image: url("bg.jpg");
+    box-shadow: 5px 5px 5px #888888;
+  }
